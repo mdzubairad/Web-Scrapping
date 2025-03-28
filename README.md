@@ -2,6 +2,7 @@
 
 ## 📌 Overview
 This project provides a local HTML webpage and Python script for practicing web scraping techniques using Selenium. It includes various HTML elements commonly encountered in real-world scraping scenarios.
+It is Scrapping the Product name and their price.
 
 ## 🛠️ Features
 - **Webpage** with:
